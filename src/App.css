@@ -1,0 +1,12 @@
+.residents-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    max-width: 1480px;
+    margin: 0 auto;
+}
+.App{
+    color: rgb(196, 195, 195);
+}
